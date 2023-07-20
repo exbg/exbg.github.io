@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         First_luogu
 // @namespace    http://tampermonkey.net/
-// @version      0.11
+// @version      0.01
 // @description  一个测试中的luogu插件。
 // @author       wzb0414
 
