@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         First_luogu
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  一个测试中的luogu插件。
 // @author       wzb0414
 
@@ -15,6 +15,5 @@
 (function() {
     'use strict';
 
-    
-    console.log("Hello world");
+    console.log("Hello new world");
 })();
