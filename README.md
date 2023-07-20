@@ -1,2 +1,2 @@
 # exbg.github.io
-a test place.
+A test for JS from luogu.
