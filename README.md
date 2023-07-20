@@ -1,2 +1,2 @@
 # exbg.github.io
-A test for JS from luogu.
+洛谷鼠标点击特效。
