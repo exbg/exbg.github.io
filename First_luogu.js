@@ -2,7 +2,7 @@
 // @name         First_luogu
 // @namespace    http://tampermonkey.net/
 // @version      0.12
-// @description  一个测试中的鼠标特效插件。
+// @description  一个测试中的洛谷鼠标特效插件。
 // @author       wzb0414
 
 // @match          *
