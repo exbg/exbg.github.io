@@ -5,6 +5,7 @@
 // @description  一个测试中的洛谷鼠标特效插件。
 // @author       wzb0414
 
+// @match          *://*/*
 // @match          https://*.luogu.com.cn/*
 // @match          https://*.luogu.org/*
 
