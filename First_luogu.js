@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         First_luogu
 // @namespace    http://tampermonkey.net/
-// @version      0.12
+// @version      0.13
 // @description  一个测试中的洛谷鼠标特效插件。
 // @author       wzb0414
 
-// @match          *
+// @match          https://*.luogu.com.cn/*
+// @match          https://*.luogu.org/*
+
 // @license      AGPL-3.0
 // @icon         https://cdn.luogu.com.cn/upload/image_hosting/fwkrvmyu.png
 // @grant        none
