@@ -2,12 +2,10 @@
 // @name         First_luogu
 // @namespace    http://tampermonkey.net/
 // @version      0.12
-// @description  一个测试中的luogu插件。
+// @description  一个测试中的鼠标特效插件。
 // @author       wzb0414
 
-// @match          https://*.luogu.com.cn/*
-// @match          https://*.luogu.org/*
-// @match          *://*
+// @match          *
 // @license      AGPL-3.0
 // @icon         https://cdn.luogu.com.cn/upload/image_hosting/fwkrvmyu.png
 // @grant        none
