@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         First_luogu
+// @name         鼠标特效
 // @namespace    http://tampermonkey.net/
 // @version      0.13
-// @description  一个测试中的洛谷鼠标特效插件。
+// @description  一个鼠标特效插件，适用于绝大部分网站。
 // @author       wzb0414
 
+// @match          *://*
 // @match          *://*/*
+// @match          *://*/*/*
+// @match          *://*/*/*/*
 // @match          https://*.luogu.com.cn/*
 // @match          https://*.luogu.org/*
 
