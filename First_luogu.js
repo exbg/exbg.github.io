@@ -11,7 +11,6 @@
 // @match          *://*/*/*/*
 // @match          https://*.luogu.com.cn/*
 // @match          https://*.luogu.org/*
-
 // @license      AGPL-3.0
 // @icon         https://cdn.luogu.com.cn/upload/image_hosting/fwkrvmyu.png
 // @grant        none
